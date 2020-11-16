@@ -1,3 +1,22 @@
+# Kharcha Pani
+* daily expense app 
+* daily tracks the water consumption.
+* made with create react app 
+* Frontend + backend.
+
+# Features 
+## UI components
+ ** Balance
+ ** 
+
+
+
+
+## To-do:-
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
